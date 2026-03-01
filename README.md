@@ -73,11 +73,8 @@ Be the first to expose your opponents' secret codes before your own is fully rev
 1. **Drawing a Tile**: On your turn, draw one of the remaining tiles and keep it hidden from other players.
 2. **Making a Guess**:
    - Choose an opponent and guess the number of one of their tiles.
-   - **Correct Guess**: If you are correct, the opponent will reveal the tile.
-   - **Incorrect Guess**: If you are wrong, the tile you drew will be revealed and placed in its correct position. This gives your opponents clues about your hidden tiles.
-3. **Continuing Your Turn**: If your first guess is correct, you may either:
-   - Attack another opponent's tile.
-   - End your turn, in which case the tile you drew will be placed in its correct position without revealing it. Your secret code is now one tile longer.
+   - **Correct Guess**: If your guess is correct, your opponent will reveal the tile, and you may guess again.
+   - **Incorrect Guess**: If your guess is wrong, the tile you drew will be revealed and placed in its correct position. This gives your opponents clues about your hidden tiles.
 
 ### Next Turn / Winning
 - Play continues in turns. The game continues until only one player has tiles still unrevealed. That player is declared the winner.
